@@ -59,7 +59,7 @@ int main() {
     int choice;
 
     while (true) {
-        cout << "\n~~~~~~~~KALISPERA ZEMRA~~~~~~~~~\n\n";
+        cout << "\n~~~~~~~~Hello~~~~~~~~~\n\n";
         cout << "Enter your choice\n";
         cout << "\t1.Enter your choice number,account,type\n";
         cout << "\t2.Balance enquiry\n";
