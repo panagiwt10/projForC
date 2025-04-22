@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Έγγραφα/πανεπιστημιο/projC/ATM machine/cmake-build-debug/CMakeFiles/ATM_machine.dir
+C:/Users/User/OneDrive/Έγγραφα/πανεπιστημιο/projC/ATM machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Έγγραφα/πανεπιστημιο/projC/ATM machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
